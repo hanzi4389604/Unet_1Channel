@@ -8,4 +8,4 @@ Meanwhile, the output have only 1 class for this practice, and other correspondi
 
 Only the code for N.network training is uploaded. 
 
-The evaluaation code is not finished yet, becuase time is limited.
+The evaluation code is not finished yet, becuase time is limited.
