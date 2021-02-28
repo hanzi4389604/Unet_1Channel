@@ -2,9 +2,9 @@ This is a practice for the Unet construction.
 
 This structure is only for 1 input chennel and 1 output channel.
 
-For medical images, it may have several input layers with RGB or multispectral images, this Unet need to be changed accordingly.
+For medical images, it may has several input channels with RGB or multispectral channels, the channels in this Unet-Network need to be changed accordingly.
 
-Meanwhile, the output have only 1 class for this practice, and other corresponding changes need to be made for multi-class output data.
+Meanwhile, the output data has only 1 class for this practice, and other corresponding changes need to be made for multi-class output data.
 
 Only the code for N.network training is uploaded. 
 
